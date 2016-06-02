@@ -1,8 +1,9 @@
 
-//added new thing
+
 import sys
 
 j=1
+hey = []
 first_row=[]
 second_row=[]
 intersect=[]
