@@ -1,6 +1,7 @@
 
-import sys
 //added new thing
+import sys
+
 j=1
 first_row=[]
 second_row=[]
